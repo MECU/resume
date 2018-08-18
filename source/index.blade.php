@@ -49,7 +49,7 @@
                 <div class="sectionContent">
                     <article>
                         <h2>Software Engineer</h2>
-                        <h3>i3logic</h3>
+                        <h3><a href="https://i3logix.com">i3logix</a></h3>
 
                         <p class="subDetails">July 2018 &mdash; Present</p>
                         <ul>
@@ -65,7 +65,7 @@
                 <div class="sectionContent">
                     <article>
                         <h2>Developer III (Senior)</h2>
-                        <h3>RealPage (formerly The Rainmaker Group)</h3>
+                        <h3><a href="https://realpage.com">RealPage</a> (formerly The Rainmaker Group)</h3>
 
                         <p class="subDetails">July 2017 &mdash; July 2018</p>
                         <ul>
@@ -85,7 +85,7 @@
                 <div class="sectionContent">
                     <article>
                         <h2>PHP Developer</h2>
-                        <h3>TransitiveMedia</h3>
+                        <h3><a href="https://transitivemedia.com">TransitiveMedia</a></h3>
 
                         <p class="subDetails">October 2016 &mdash; July 2017</p>
                         <ul>
@@ -105,7 +105,7 @@
                 <div class="sectionContent">
                     <article>
                         <h2>PHP Web Application Developer</h2>
-                        <h3>Wiland</h3>
+                        <h3><a href="https://wiland.com">Wiland</a></h3>
 
                         <p class="subDetails">April 2015 &mdash; October 2016</p>
                         <ul>
