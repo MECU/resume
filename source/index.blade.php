@@ -25,12 +25,7 @@
         <div id="mainArea">
             <section>
                 <article>
-                    <div class="sectionTitle">
-                        <h1>Profile</h1>
-                    </div>
-
                     <div class="sectionContent">
-                        <p>Passionate about:</p>
                         <ul>
                             <li>Better is the enemy of good enough</li>
                             <li>Solve real problems, don't just provide solutions</li>
@@ -243,24 +238,13 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="html" height="55" width="55"></canvas>
-                            </div>
-
-                            <div class="details">
-                                <p>HTML</p>
-
-                                <p>1998-Present</p>
-                            </div>
-                        </li>
-                        <li class="skill">
-                            <div class="chart">
                                 <canvas id="html5" height="55" width="55"></canvas>
                             </div>
 
                             <div class="details">
                                 <p>HTML5</p>
 
-                                <p>2013-Present</p>
+                                <p>1998-Present</p>
                             </div>
                         </li>
                         <li class="skill">
@@ -338,28 +322,6 @@
                                 <p>Laravel</p>
 
                                 <p>2013-Present</p>
-                            </div>
-                        </li>
-                        <li class="skill">
-                            <div class="chart">
-                                <canvas id="wordpress" height="55" width="55"></canvas>
-                            </div>
-
-                            <div class="details">
-                                <p>WordPress</p>
-
-                                <p>2008-2012, 2016</p>
-                            </div>
-                        </li>
-                        <li class="skill">
-                            <div class="chart">
-                                <canvas id="joomla" height="55" width="55"></canvas>
-                            </div>
-
-                            <div class="details">
-                                <p>Joomla</p>
-
-                                <p>2005-2011</p>
                             </div>
                         </li>
                         <li class="skill">
