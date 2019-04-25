@@ -412,6 +412,17 @@
                             <p>2018-Present</p>
                         </div>
                     </li>
+                    <li class="skill">
+                        <div class="chart">
+                            <canvas id="python"></canvas>
+                        </div>
+
+                        <div class="details">
+                            <p>Python</p>
+
+                            <p>2018-Present</p>
+                        </div>
+                    </li>
                 </ul>
             </div>
             <div class="clear"></div>
