@@ -14,29 +14,29 @@ $(document).ready(function ($) {
             return ((elemTop <= docViewBottom) && (elemBottom >= docViewTop));
         }
 
-        var html5 = [{value: 90, color: "#aed57c"}, {value: 10, color: "#eff7e5"}];
-        var php = [{value: 85, color: "#aed57c"}, {value: 15, color: "#eff7e5"}];
-        var css = [{value: 75, color: "#aed57c"}, {value: 25, color: "#eff7e5"}];
-        var js = [{value: 50, color: "#aed57c"}, {value: 50, color: "#eff7e5"}];
-        var jquery = [{value: 75, color: "#aed57c"}, {value: 25, color: "#eff7e5"}];
-        var mysql = [{value: 80, color: "#aed57c"}, {value: 20, color: "#eff7e5"}];
-        var vue = [{value: 25, color: "#aed57c"}, {value: 75, color: "#eff7e5"}];
-        var cpp = [{value: 15, color: "#aed57c"}, {value: 85, color: "#eff7e5"}];
-        var oop = [{value: 84, color: "#aed57c"}, {value: 16, color: "#eff7e5"}];
-        var git = [{value: 72, color: "#aed57c"}, {value: 28, color: "#eff7e5"}];
-        var composer = [{value: 50, color: "#aed57c"}, {value: 50, color: "#eff7e5"}];
-        var bitbucket = [{value: 45, color: "#aed57c"}, {value: 55, color: "#eff7e5"}];
-        var laravel = [{value: 75, color: "#aed57c"}, {value: 25, color: "#eff7e5"}];
-        var querypath = [{value: 33, color: "#aed57c"}, {value: 67, color: "#eff7e5"}];
-        var twitterapi = [{value: 44, color: "#aed57c"}, {value: 56, color: "#eff7e5"}];
-        var rest = [{value: 50, color: "#aed57c"}, {value: 50, color: "#eff7e5"}];
-        var eloquent = [{value: 67, color: "#aed57c"}, {value: 33, color: "#eff7e5"}];
-        var bootstrap = [{value: 50, color: "#aed57c"}, {value: 50, color: "#eff7e5"}];
-        var aws = [{value: 25, color: "#aed57c"}, {value: 75, color: "#eff7e5"}];
-        var doctrine = [{value: 66, color: "#aed57c"}, {value: 34, color: "#eff7e5"}];
-        var symfony = [{value: 50, color: "#aed57c"}, {value: 50, color: "#eff7e5"}];
-        var zend = [{value: 25, color: "#aed57c"}, {value: 75, color: "#eff7e5"}];
-        var golang = [{value: 1, color: "#aed57c"}, {value: 99, color: "#eff7e5"}];
+        var html5 = [{value: 90, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 10, color: "#eff7e5"}];
+        var php = [{value: 85, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 15, color: "#eff7e5"}];
+        var css = [{value: 75, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 25, color: "#eff7e5"}];
+        var js = [{value: 50, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 50, color: "#eff7e5"}];
+        var jquery = [{value: 75, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 25, color: "#eff7e5"}];
+        var mysql = [{value: 80, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 20, color: "#eff7e5"}];
+        var vue = [{value: 25, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 75, color: "#eff7e5"}];
+        var cpp = [{value: 15, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 85, color: "#eff7e5"}];
+        var oop = [{value: 84, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 16, color: "#eff7e5"}];
+        var git = [{value: 72, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 28, color: "#eff7e5"}];
+        var composer = [{value: 50, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 50, color: "#eff7e5"}];
+        var bitbucket = [{value: 45, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 55, color: "#eff7e5"}];
+        var laravel = [{value: 75, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 25, color: "#eff7e5"}];
+        var querypath = [{value: 33, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 67, color: "#eff7e5"}];
+        var twitterapi = [{value: 44, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 56, color: "#eff7e5"}];
+        var rest = [{value: 50, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 50, color: "#eff7e5"}];
+        var eloquent = [{value: 67, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 33, color: "#eff7e5"}];
+        var bootstrap = [{value: 50, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 50, color: "#eff7e5"}];
+        var aws = [{value: 25, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 75, color: "#eff7e5"}];
+        var doctrine = [{value: 66, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 34, color: "#eff7e5"}];
+        var symfony = [{value: 50, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 50, color: "#eff7e5"}];
+        var zend = [{value: 25, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 75, color: "#eff7e5"}];
+        var golang = [{value: 1, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 99, color: "#eff7e5"}];
 
         $(window).scroll(function () {
             if (isScrolledIntoView('#skills')) {
