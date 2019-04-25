@@ -379,6 +379,17 @@
                                 <p>2014-Present</p>
                             </div>
                         </li>
+                        <li class="skill">
+                            <div class="chart">
+                                <canvas id="golang"></canvas>
+                            </div>
+
+                            <div class="details">
+                                <p>Go</p>
+
+                                <p>2017-2018</p>
+                            </div>
+                        </li>
                     </ul>
                 </div>
                 <div class="clear"></div>
