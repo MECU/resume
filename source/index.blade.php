@@ -418,14 +418,14 @@
                 <div>
                     <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
                     <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/hoppes"
-                            data-format="inline"
-                            data-related="false"></script>
+                            data-format="inline" data-related="false"></script>
                 </div>
                 <div>
                     <iframe src="https://githubbadge.appspot.com/MECU?a=0"
                             style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
                 </div>
             </div>
+            <div class="clear"></div>
         </section>
 
         <section>
