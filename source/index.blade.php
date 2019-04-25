@@ -26,7 +26,7 @@
             <section>
                 <article>
                     <div class="sectionContent">
-                        <ul>
+                        <ul class="unstyled">
                             <li>Better is the enemy of good enough</li>
                             <li>Solve real problems, don't just provide solutions</li>
                             <li>Get a project done on-time and meet all requirements</li>
