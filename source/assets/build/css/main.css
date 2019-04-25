@@ -415,3 +415,8 @@ img {
 ul.nolist {
      list-style:none;
 }
+
+div.chart>canvas {
+    height: 55px;
+    width: 55px;
+}
