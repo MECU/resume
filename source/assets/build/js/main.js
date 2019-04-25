@@ -36,6 +36,7 @@ $(document).ready(function ($) {
         var doctrine = [{value: 66, color: "#aed57c"}, {value: 34, color: "#eff7e5"}];
         var symfony = [{value: 50, color: "#aed57c"}, {value: 50, color: "#eff7e5"}];
         var zend = [{value: 25, color: "#aed57c"}, {value: 75, color: "#eff7e5"}];
+        var golang = [{value: 1, color: "#aed57c"}, {value: 99, color: "#eff7e5"}];
 
         $(window).scroll(function () {
             if (isScrolledIntoView('#skills')) {
@@ -65,6 +66,7 @@ $(document).ready(function ($) {
                 new Chart(document.getElementById("doctrine").getContext("2d")).Doughnut(doctrine);
                 new Chart(document.getElementById("symfony").getContext("2d")).Doughnut(symfony);
                 new Chart(document.getElementById("zend").getContext("2d")).Doughnut(zend);
+                new Chart(document.getElementById("golang").getContext("2d")).Doughnut(golang);
             } else {
                 if ($(window).width() >= 1024) {
                     inView = false;
