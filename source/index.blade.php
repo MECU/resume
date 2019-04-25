@@ -415,40 +415,50 @@
                                 style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
                     </div>
                 </div>
-                <div style="margin-top:35px">
-                    <a href="https://www.testdome.com/cert/ebc6fc0a57f1493bb903560af1e6b556"
+            </section>
+            
+            <section>
+                <div class="sectionTitle">
+                    <h1>Tests</h1>
+                </div>
+
+                <div class="sectionContent">
+                <ul class="keySkills">
+                
+                    <script>
+                        var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
+                            link = document.createElement("link");
+                        link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);
+                    </script>
+                    <li>
+                        <a href="https://www.testdome.com/cert/ebc6fc0a57f1493bb903560af1e6b556"
                        class="testdome-certificate-stamp gold"><span
                                 class="testdome-certificate-name">Michael Hoppes</span><span
                                 class="testdome-certificate-test-name">PHP </span><span
                                 class="testdome-certificate-card-logo">TestDome<br/>Certificate</span></a>
-                    <script type="text/javascript">var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
-                            link = document.createElement("link");
-                        link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
+                    </li>
+                    <li>
                     <a href="https://www.testdome.com/cert/8d90e080467b4dfe81402d865b9a8005"
                        class="testdome-certificate-stamp gold"><span
                                 class="testdome-certificate-name">Michael Hoppes</span><span
                                 class="testdome-certificate-test-name">PHP (Hard) </span><span
-                                class="testdome-certificate-card-logo">TestDome<br/>Certificate</span></a>
-                    <script type="text/javascript">var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
-                            link = document.createElement("link");
-                        link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
+                                class="testdome-certificate-card-logo">TestDome<br/>Certificate</span></a>  
+                    </li>
+                    <li>                  
                     <a href="https://www.testdome.com/cert/6d8701d0c13547af8bca47eb26f24009"
                        class="testdome-certificate-stamp gold"><span
                                 class="testdome-certificate-name">Michael Hoppes</span><span
                                 class="testdome-certificate-test-name">PHP and SQL </span><span
                                 class="testdome-certificate-card-logo">TestDome<br/>Certificate</span></a>
-                    <script type="text/javascript">var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
-                            link = document.createElement("link");
-                        link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
+                    </li>
+                    <li>
                     <a href="https://www.testdome.com/cert/62e99b8524244eb8b429df841ec7bff1"
                        class="testdome-certificate-stamp gold"><span
                                 class="testdome-certificate-name">Michael Hoppes</span><span
                                 class="testdome-certificate-test-name">PHP and SQL (Hard) </span><span
                                 class="testdome-certificate-card-logo">TestDome<br/>Certificate</span></a>
-                    <script type="text/javascript">var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
-                            link = document.createElement("link");
-                        link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
-                </div>
+                    </li>
+                </ul>
                 <div class="clear"></div>
             </section>
 
