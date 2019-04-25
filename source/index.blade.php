@@ -438,9 +438,8 @@
                                 alt="profile for MECU on Stack Exchange" title="profile for MECU on Stack Exchange"/></a>
                 </div>
                 <div>
-                    <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-                    <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/hoppes"
-                            data-format="inline" data-related="false"></script>
+                    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+                    <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="hoppes"><a class="LI-simple-link" href='https://www.linkedin.com/in/hoppes?trk=profile-badge'>Michael Hoppes</a></div>
                 </div>
                 <div>
                     <iframe src="https://githubbadge.appspot.com/MECU?a=0"
@@ -457,7 +456,6 @@
 
             <div class="sectionContent">
                 <ul class="keySkills">
-
                     <script>
                         var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
                             link = document.createElement("link");
@@ -467,7 +465,7 @@
                         <a href="https://www.testdome.com/cert/ebc6fc0a57f1493bb903560af1e6b556"
                            class="testdome-certificate-stamp gold">
                             <span class="testdome-certificate-name">Michael Hoppes</span>
-                            <span class="testdome-certificate-test-name">PHP </span>
+                            <span class="testdome-certificate-test-name">PHP</span>
                             <span class="testdome-certificate-card-logo">TestDome<br/>Certificate</span>
                         </a>
                     </li>
@@ -475,7 +473,7 @@
                         <a href="https://www.testdome.com/cert/8d90e080467b4dfe81402d865b9a8005"
                            class="testdome-certificate-stamp gold">
                             <span class="testdome-certificate-name">Michael Hoppes</span>
-                            <span class="testdome-certificate-test-name">PHP (Hard) </span>
+                            <span class="testdome-certificate-test-name">PHP (Hard)</span>
                             <span class="testdome-certificate-card-logo">TestDome<br/>Certificate</span>
                         </a>
                     </li>
@@ -483,14 +481,14 @@
                         <a href="https://www.testdome.com/cert/6d8701d0c13547af8bca47eb26f24009"
                            class="testdome-certificate-stamp gold">
                             <span class="testdome-certificate-name">Michael Hoppes</span>
-                            <span class="testdome-certificate-test-name">PHP and SQL </span>
+                            <span class="testdome-certificate-test-name">PHP and SQL</span>
                         </a>
                     </li>
                     <li>
                         <a href="https://www.testdome.com/cert/62e99b8524244eb8b429df841ec7bff1"
                            class="testdome-certificate-stamp gold">
                             <span class="testdome-certificate-name">Michael Hoppes</span>
-                            <span class="testdome-certificate-test-name">PHP and SQL (Hard) </span>
+                            <span class="testdome-certificate-test-name">PHP and SQL (Hard)</span>
                             <span class="testdome-certificate-card-logo">TestDome<br/>Certificate</span>
                         </a>
                     </li>
