@@ -411,3 +411,7 @@ img {
 }
 
 /* SKILLS SECTION END */
+
+ul.nolist {
+     list-style:none;
+}
