@@ -150,7 +150,7 @@
                     <ul class="keySkills">
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="php" height="55" width="55"></canvas>
+                                <canvas id="php"></canvas>
                             </div>
 
                             <div class="details">
@@ -161,7 +161,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="mysql" height="55" width="55"></canvas>
+                                <canvas id="mysql"></canvas>
                             </div>
 
                             <div class="details">
@@ -172,7 +172,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="vue" height="55" width="55"></canvas>
+                                <canvas id="vue"></canvas>
                             </div>
 
                             <div class="details">
@@ -183,7 +183,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="js" height="55" width="55"></canvas>
+                                <canvas id="js"></canvas>
                             </div>
 
                             <div class="details">
@@ -194,7 +194,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="jquery" height="55" width="55"></canvas>
+                                <canvas id="jquery"></canvas>
                             </div>
 
                             <div class="details">
@@ -205,7 +205,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="cpp" height="55" width="55"></canvas>
+                                <canvas id="cpp"></canvas>
                             </div>
 
                             <div class="details">
@@ -216,7 +216,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="oop" height="55" width="55"></canvas>
+                                <canvas id="oop"></canvas>
                             </div>
 
                             <div class="details">
@@ -227,7 +227,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="bootstrap" height="55" width="55"></canvas>
+                                <canvas id="bootstrap"></canvas>
                             </div>
 
                             <div class="details">
@@ -238,7 +238,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="html5" height="55" width="55"></canvas>
+                                <canvas id="html5"></canvas>
                             </div>
 
                             <div class="details">
@@ -249,7 +249,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="css" height="55" width="55"></canvas>
+                                <canvas id="css"></canvas>
                             </div>
 
                             <div class="details">
@@ -260,7 +260,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="composer" height="55" width="55"></canvas>
+                                <canvas id="composer"></canvas>
                             </div>
 
                             <div class="details">
@@ -271,7 +271,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="git" height="55" width="55"></canvas>
+                                <canvas id="git"></canvas>
                             </div>
 
                             <div class="details">
@@ -282,7 +282,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="symfony" height="55" width="55"></canvas>
+                                <canvas id="symfony"></canvas>
                             </div>
 
                             <div class="details">
@@ -293,7 +293,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="doctrine" height="55" width="55"></canvas>
+                                <canvas id="doctrine"></canvas>
                             </div>
 
                             <div class="details">
@@ -304,7 +304,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="bitbucket" height="55" width="55"></canvas>
+                                <canvas id="bitbucket"></canvas>
                             </div>
 
                             <div class="details">
@@ -315,7 +315,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="laravel" height="55" width="55"></canvas>
+                                <canvas id="laravel"></canvas>
                             </div>
 
                             <div class="details">
@@ -326,7 +326,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="querypath" height="55" width="55"></canvas>
+                                <canvas id="querypath"></canvas>
                             </div>
 
                             <div class="details">
@@ -337,7 +337,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="twitterapi" height="55" width="55"></canvas>
+                                <canvas id="twitterapi"></canvas>
                             </div>
 
                             <div class="details">
@@ -348,7 +348,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="rest" height="55" width="55"></canvas>
+                                <canvas id="rest"></canvas>
                             </div>
 
                             <div class="details">
@@ -359,7 +359,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="eloquent" height="55" width="55"></canvas>
+                                <canvas id="eloquent"></canvas>
                             </div>
 
                             <div class="details">
@@ -370,7 +370,7 @@
                         </li>
                         <li class="skill">
                             <div class="chart">
-                                <canvas id="aws" height="55" width="55"></canvas>
+                                <canvas id="aws"></canvas>
                             </div>
 
                             <div class="details">
