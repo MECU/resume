@@ -32,9 +32,9 @@
                     <div class="sectionContent">
                         <p>Passionate about:</p>
                         <ul>
-                            <li>Solving real problems, not just providing solutions.</li>
-                            <li>Getting a project done on-time and meeting all requirements.</li>
-                            <li>Learning new technologies.</li>
+                            <li>Better is the enemy of good enough</li>
+                            <li>Solve real problems, don't just provide solutions</li>
+                            <li>Get a project done on-time and meet all requirements</li>
                         </ul>
                     </div>
                 </article>
@@ -53,31 +53,25 @@
 
                         <p class="subDetails">July 2018 &mdash; Present</p>
                         <ul>
-                            <li>Zend Framework, EXT JS, JIRA</li>
-                            <li>Back-end focused with PHP 7.1+, Zend Framework components on custom, internal built framework</li>
-                            <li>Use, debug, design and implement legacy EXT JS framework in scrum sprint using JIRA and git</li>
+                            <li>PHP 7.1+, Zend Framework combined with Expressive, EXT.JS, Jasper, JIRA, git</li>
+                            <li>Manage scalability of legacy codebase while enabling longevity by eliminating technical restrictions</li>
+                            <li>Design and begin implementation to replace legacy system using modern architectures</li>
+                            <li>Perform and recommend software frameworks, packages and processes</li>
                             <li>Perform code reviews on peer pull requests as-required</li>
                             <li>Support off-hours deployment releases on a rotating schedule</li>
-                        </ul>
                     </article>
                 </div>
 
                 <div class="sectionContent">
                     <article>
-                        <h2>Developer III (Senior)</h2>
+                        <h2>Software Developer III (Senior)</h2>
                         <h3><a href="https://realpage.com">RealPage</a> (formerly The Rainmaker Group)</h3>
 
                         <p class="subDetails">July 2017 &mdash; July 2018</p>
                         <ul>
                             <li>Laravel, JavaScript, JIRA, AWS</li>
-                            <li>Help shape and implement new features within the Rainmaker ILM product suite, working
-                                with the engineering team (fellow developers, designers, and product owners) and sales
-                                and support to figure out what we should (and shouldn’t) be building and how to build it
-                                well.</li>
-                            <li>Perform critical real-time web application development using the LAMP stack. (PHP, SQL, JavaScript, CSS, etc)</li>
-                            <li>Integrate with in-house and third-party applications through REST and SOAP APIs.</li>
-                            <li>Unit-test code for robustness, including edge cases, usability, and generally reliability</li>
-                            <li>Collaborate with the QA team in design and implementation of testing plans to resolve issues and ensure software quality</li>
+                            <li>Help shape and implement new features within the Rainmaker ILM product suite working with developers, designers, product owners, sales and support</li>
+                            <li>Integrate with in-house and third-party applications through REST and SOAP APIs</li>
                         </ul>
                     </article>
                 </div>
@@ -89,14 +83,10 @@
 
                         <p class="subDetails">October 2016 &mdash; July 2017</p>
                         <ul>
-                            <li>Part of a small creative team that is responsible for all aspects of the ongoing and new
-                                software
-                                development and maintenance of our IP software, system maintenance, and client requests
-                                (internal and external clients)
-                            </li>
-                            <li>Application based on Laravel, Eloquent, MySQL, Blade, PHP 7+, HTML5, CSS3</li>
+                            <li>Part of a small creative team that was responsible for all aspects of the ongoing and new software development and maintenance of IP software, system maintenance, and client requests (internal and external clients)</li>
+                            <li>Application based on Laravel, Eloquent, MySQL, Blade, PHP 7+, HTML5, CSS3, Vue.JS</li>
                             <li>Full-Stack Development from database design to CSS with Bootstrap</li>
-                            <li>Build and consume internal RESTful API</li>
+                            <li>Build and consume internal RESTful API, OAuth 2.0, Access Control</li>
                             <li>Git repository and branch source code management</li>
                         </ul>
                     </article>
@@ -109,20 +99,12 @@
 
                         <p class="subDetails">April 2015 &mdash; October 2016</p>
                         <ul>
-                            <li>Work closely with the Development Team Lead, Product Management Team and other
-                                developers to
-                                define, design, build, test and maintain consumer-facing web based business and public
-                                web
-                                applications and intranet application.
-                            </li>
-                            <li>Application based on Symfony 2 with Doctrine 2, MySQL, Twig, PHP 5.6, HTML5, CSS3</li>
-                            <li>Full-Stack Development from database design to CSS / LESS coding with Bootstrap</li>
+                            <li>Worked closely with the Development Team Lead, Product Management team and other developers 
+                                to define, design, build and maintain consumer-facing web based application</li>
                             <li>Integrated with Cloudinary API, Twitter Bootstrap Carousel</li>
-                            <li>Asynchronous loading of content with jQuery / JavaScript, JSON</li>
-                            <li>Coded and validate automated test cases with PHPUnit, Selenium / Mink</li>
-                            <li>Use JIRA issue tracker for work estimation, status, issue dependency and resolution</li>
-                            <li>Git repository and branch source code management</li>
-                            <li>Developer environment: Windows 7 host, VirtualBox VM with Fedora</li>
+                            <li>Asynchronous AJAX loading of content, Handlebars JS</li>
+                            <li>Application based on Symfony 2/3 with Doctrine 2, MySQL, Twig, PHP 7</li>
+                            <li>Write automated test cases with PHPUnit, Selenium & Mink</li>
                         </ul>
                     </article>
                 </div>
@@ -138,12 +120,12 @@
                     <article>
                         <h2><a href="https://rockyprep.com/">RockyPrep.com</a></h2>
                         <p class="subDetails">Launched: September 2008</p>
-                        <p>Creator and full programmer of front and back ends of site using Laravel Framework,
-                            MySQL, jQuery and Bootstrap. The website covers high school football schedules,
-                            results, standings and computer analysis (RPI).</p>
-                        <p>RPI calculation is used as part of seeding process for Colorado 5A Football Playoff Bracket
-                            generation. (A committee uses the RPI as part of many factors to determine the seeding.)</p>
-                        <p>Website receives ~500,000 page views annually.</p>
+                            <li>Creates, automatically updates and calculates standings and RPI for high school football 
+                                teams in the United States</li>
+                            <li>Laravel, jQuery, JavaScript (JS), Twitter Bootstrap</li>
+                            <li>LAMP stack: Linux, Apache2, MySQL, and PHP 7.1</li>
+                            <li>Integrates with Twitter API to tweet results</li>
+                        </p>
                     </article>
                 </div>
 
@@ -151,9 +133,14 @@
                     <article>
                         <h2><a href="https://tractrak.com">TracTrak.com</a></h2>
                         <p class="subDetails">Launched: January 2016</p>
-                        <p>Creator and full programmer of front and back ends of site using Laravel Framework,
-                            MySQL, Vue.js, Pusher.com, <span style="text-decoration:line-through">Dropbox</span> and Bootstrap.
-                            The website provides real-time results of track time for track meets from the <a href="http://finishlynx.com">FinishLynx</a> Fully-Automated-Timing system.</p>
+                        <p>The website provides real-time results of track time for track meets from the 
+                            <a href="http://finishlynx.com">FinishLynx</a> Fully-Automated-Timing system.</p>
+                        <li>Takes output of fully automated timing system and pushes notifications through Pusher.com via 
+                            websockets to update data without refreshing web page</li>
+                        <li>Wrote Golang executable to monitor directory for file changes and send to server with 
+                            built-in automatic retries</li>
+                        <li>Laravel, Vue.JS, Twitter Bootstrap</li>
+                        <li>LAMP stack: Linux, Apache2, MySQL, and PHP 7.1</li>
                     </article>
                 </div>
                 <div class="clear"></div>
@@ -441,9 +428,8 @@
 
                 <div class="sectionContent">
                     <div><a href="https://stackexchange.com/users/30787/mecu"><img
-                                    src="https://stackexchange.com/users/flair/30787.png" width="208" height="58"
-                                    alt="profile for MECU on Stack Exchange, a network of free, community-driven Q&amp;A sites"
-                                    title="profile for MECU on Stack Exchange, a network of free, community-driven Q&amp;A sites"/></a>
+                        src="https://stackexchange.com/users/flair/30787.png" width="208" height="58"
+                        alt="profile for MECU on Stack Exchange" title="profile for MECU on Stack Exchange"/></a>
                     </div>
                     <div>
                         <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
@@ -528,14 +514,6 @@
 
                     <article>
                         <h2>Eagle Scout</h2>
-                    </article>
-
-                    <article>
-                        <h2>Hobbies:</h2>
-                        <p class="subDetails">Operating finish line camera timing system at high school track meets in
-                            the
-                            spring.</p>
-                        <p class="subDetails">High school sports, college football</p>
                     </article>
                 </div>
                 <div class="clear"></div>
