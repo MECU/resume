@@ -37,6 +37,7 @@ $(document).ready(function ($) {
         var symfony = [{value: 50, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 50, color: "#eff7e5"}];
         var zend = [{value: 25, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 75, color: "#eff7e5"}];
         var golang = [{value: 1, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 99, color: "#eff7e5"}];
+        var python = [{value: 5, color: '#'+Math.floor(Math.random()*16777215).toString(16)}, {value: 95, color: "#eff7e5"}];
 
         $(window).scroll(function () {
             if (isScrolledIntoView('#skills')) {
@@ -67,6 +68,7 @@ $(document).ready(function ($) {
                 new Chart(document.getElementById("symfony").getContext("2d")).Doughnut(symfony);
                 new Chart(document.getElementById("zend").getContext("2d")).Doughnut(zend);
                 new Chart(document.getElementById("golang").getContext("2d")).Doughnut(golang);
+                new Chart(document.getElementById("python").getContext("2d")).Doughnut(python);
             } else {
                 if ($(window).width() >= 1024) {
                     inView = false;
