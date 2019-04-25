@@ -401,6 +401,17 @@
                             <p>2017-2018</p>
                         </div>
                     </li>
+                    <li class="skill">
+                        <div class="chart">
+                            <canvas id="zend"></canvas>
+                        </div>
+
+                        <div class="details">
+                            <p>Zend</p>
+
+                            <p>2018-Present</p>
+                        </div>
+                    </li>
                 </ul>
             </div>
             <div class="clear"></div>
@@ -443,31 +454,34 @@
                     </script>
                     <li>
                         <a href="https://www.testdome.com/cert/ebc6fc0a57f1493bb903560af1e6b556"
-                           class="testdome-certificate-stamp gold"><span
-                                    class="testdome-certificate-name">Michael Hoppes</span><span
-                                    class="testdome-certificate-test-name">PHP </span><span
-                                    class="testdome-certificate-card-logo">TestDome<br/>Certificate</span></a>
+                           class="testdome-certificate-stamp gold">
+                            <span class="testdome-certificate-name">Michael Hoppes</span>
+                            <span class="testdome-certificate-test-name">PHP </span>
+                            <span class="testdome-certificate-card-logo">TestDome<br/>Certificate</span>
+                        </a>
                     </li>
                     <li>
                         <a href="https://www.testdome.com/cert/8d90e080467b4dfe81402d865b9a8005"
-                           class="testdome-certificate-stamp gold"><span
-                                    class="testdome-certificate-name">Michael Hoppes</span><span
-                                    class="testdome-certificate-test-name">PHP (Hard) </span><span
-                                    class="testdome-certificate-card-logo">TestDome<br/>Certificate</span></a>
+                           class="testdome-certificate-stamp gold">
+                            <span class="testdome-certificate-name">Michael Hoppes</span>
+                            <span class="testdome-certificate-test-name">PHP (Hard) </span>
+                            <span class="testdome-certificate-card-logo">TestDome<br/>Certificate</span>
+                        </a>
                     </li>
                     <li>
                         <a href="https://www.testdome.com/cert/6d8701d0c13547af8bca47eb26f24009"
-                           class="testdome-certificate-stamp gold"><span
-                                    class="testdome-certificate-name">Michael Hoppes</span><span
-                                    class="testdome-certificate-test-name">PHP and SQL </span><span
-                                    class="testdome-certificate-card-logo">TestDome<br/>Certificate</span></a>
+                           class="testdome-certificate-stamp gold">
+                            <span class="testdome-certificate-name">Michael Hoppes</span>
+                            <span class="testdome-certificate-test-name">PHP and SQL </span>
+                        </a>
                     </li>
                     <li>
                         <a href="https://www.testdome.com/cert/62e99b8524244eb8b429df841ec7bff1"
-                           class="testdome-certificate-stamp gold"><span
-                                    class="testdome-certificate-name">Michael Hoppes</span><span
-                                    class="testdome-certificate-test-name">PHP and SQL (Hard) </span><span
-                                    class="testdome-certificate-card-logo">TestDome<br/>Certificate</span></a>
+                           class="testdome-certificate-stamp gold">
+                            <span class="testdome-certificate-name">Michael Hoppes</span>
+                            <span class="testdome-certificate-test-name">PHP and SQL (Hard) </span>
+                            <span class="testdome-certificate-card-logo">TestDome<br/>Certificate</span>
+                        </a>
                     </li>
                 </ul>
             </div>
@@ -482,14 +496,16 @@
             <div class="sectionContent">
                 <article>
                     <h2>Oregon State University</h2>
+                    <p class="subDetails">2015</p>
                     <p class="subDetails">Coursework in Computer Science</p>
                 </article>
 
                 <article>
                     <h2>University of Colorado at Boulder</h2>
+                    <p class="subDetails">1999 &mdash; 2004</p>
                     <p class="subDetails">Master of Science (Mechanical Engineering)</p>
                     <p class="subDetails">Bachelor of Science (Mechanical Engineering)</p>
-                    <p class="subDetails" style="padding-left:5em">Minor in Philosophy</p>
+                    <p class="subDetails" style="padding-left:4em">Minor in Philosophy</p>
                 </article>
             </div>
             <div class="clear"></div>
