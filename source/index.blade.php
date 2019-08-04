@@ -43,10 +43,26 @@
 
             <div class="sectionContent">
                 <article>
+                    <h2>Software Engineer, Background Check Team</h2>
+                    <h3><a href="https://checkr.com">Checkr</a></h3>
+
+                    <p class="subDetails">August 2019 &mdash; Present</p>
+                    <ul>
+                        <li>Ruby on Rails</li>                
+                        <li>Collaborating with peers to brainstorm ideas to improve report accuracy and reliability - this involves white-boarding, sending out RFCs, and running architecture spike sessions with the team.</li>
+                        <li>Build new features on the core background check product and testing them.</li>
+                        <li>Contribute to internal tooling to help improve workflows and increase efficiency.</li>
+                        <li>Help identify, triage, and solve bugs.</li>
+                        <li>Demo work to team during weekly sprint retrospectives.</li>
+                </article>
+            </div>
+
+            <div class="sectionContent">
+                <article>
                     <h2>Software Engineer</h2>
                     <h3><a href="https://i3logix.com">i3logix</a></h3>
 
-                    <p class="subDetails">July 2018 &mdash; Present</p>
+                    <p class="subDetails">July 2018 &mdash; August 2019</p>
                     <ul>
                         <li>PHP 7.1+, Zend Framework combined with Expressive, EXT.JS, Jasper, JIRA, git</li>
                         <li>Manage scalability of legacy codebase while enabling longevity by eliminating technical restrictions</li>
@@ -458,6 +474,9 @@
 
             <div class="sectionContent">
                 <ul class="keySkills">
+                    <li>
+                        <img src="assets/images/Ruby SoloLearn TestCert.jpg" height="200px" />
+                    </li>
                     <script>
                         var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
                             link = document.createElement("link");
