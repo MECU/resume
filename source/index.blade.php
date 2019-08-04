@@ -475,7 +475,7 @@
             <div class="sectionContent">
                 <ul class="keySkills">
                     <li>
-                        <img src="assets/images/Ruby SoloLearn TestCert.jpg" height="200px" />
+                        <img src="/assets/images/Ruby_SoloLearn_TestCert.jpg" height="180px" />
                     </li>
                     <script>
                         var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
